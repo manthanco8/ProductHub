@@ -1,0 +1,26 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #202630;
+  color: #EAF0F6;
+  min-width: 320px;
+}
+
+button {
+  font-family: inherit;
+}
+
+::selection {
+  background: #60A5FA;
+  color: #172333;
+}
